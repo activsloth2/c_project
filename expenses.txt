@@ -1,0 +1,5 @@
+House 12500.00
+Education 9900.00
+Grocery 8750.00
+Shopping 10500.00
+Bills 7750.00

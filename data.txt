@@ -1,0 +1,3 @@
+Income 120000.00
+Expenditure 49400.00
+EMI 65616.66
